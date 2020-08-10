@@ -1,2 +1,2 @@
 # COP2800
-First Semester Projects
+Freshman First Semester Projects
